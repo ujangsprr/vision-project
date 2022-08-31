@@ -1,0 +1,8 @@
+prefix=/home/ujang/VisionProject/devel/.private/vision
+
+Name: vision
+Description: Description of vision
+Version: 0.0.0
+Cflags: -I/home/ujang/VisionProject/devel/.private/vision/include -I/home/ujang/VisionProject/src/vision/include
+Libs: -L${prefix}/lib -lvision
+Requires: cv_bridge image_transport roscpp rospy std_msgs message_generation message_runtime

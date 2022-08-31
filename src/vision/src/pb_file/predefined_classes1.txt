@@ -1,0 +1,5 @@
+ball
+obstacle
+x_line
+t_line
+l_line

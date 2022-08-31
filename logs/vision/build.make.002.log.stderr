@@ -1,0 +1,8 @@
+/usr/bin/ld: warning: libopencv_imgcodecs.so.3.2, needed by /opt/ros/melodic/lib/libcv_bridge.so, may conflict with libopencv_imgcodecs.so.4.5
+/usr/bin/ld: warning: libopencv_imgproc.so.3.2, needed by /opt/ros/melodic/lib/libcv_bridge.so, may conflict with libopencv_imgproc.so.4.5
+CMakeFiles/detection_node.dir/src/detection/callbackHandlerVision.cpp.o: In function `receiveFlag(std_msgs::Bool_<std::allocator<void> > const&)':
+callbackHandlerVision.cpp:(.text+0x150): undefined reference to `Flag'
+collect2: error: ld returned 1 exit status
+make[2]: *** [/home/ujang/VisionProject/devel/.private/vision/lib/vision/detection_node] Error 1
+make[1]: *** [CMakeFiles/detection_node.dir/all] Error 2
+make: *** [all] Error 2

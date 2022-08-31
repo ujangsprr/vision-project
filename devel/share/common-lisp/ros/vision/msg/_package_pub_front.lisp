@@ -1,0 +1,1 @@
+/home/vega/Documents/VisionProject/devel/.private/vision/share/common-lisp/ros/vision/msg/_package_pub_front.lisp

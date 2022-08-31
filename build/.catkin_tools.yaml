@@ -1,0 +1,6 @@
+devel_space: /home/vega/Documents/VisionProject/devel
+install: false
+install_space: /home/vega/Documents/VisionProject/install
+profile: default
+source_space: /home/vega/Documents/VisionProject/src
+workspace: /home/vega/Documents/VisionProject

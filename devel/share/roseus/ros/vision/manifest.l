@@ -1,0 +1,1 @@
+/home/vega/Documents/VisionProject/devel/.private/vision/share/roseus/ros/vision/manifest.l

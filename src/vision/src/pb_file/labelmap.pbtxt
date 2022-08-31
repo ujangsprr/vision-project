@@ -1,0 +1,15 @@
+item{
+	id: 1
+	name: 'ball'
+}
+
+item{
+	id: 2
+	name: 't_line'
+}
+
+item{
+	id: 3
+	name: 'l_line'
+}
+

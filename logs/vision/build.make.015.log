@@ -1,0 +1,21 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _vision_generate_messages_check_deps_pub_goalomni
+[  0%] Built target _vision_generate_messages_check_deps_pub_correction
+[  0%] Built target _vision_generate_messages_check_deps_pub_ballomni
+[  0%] Built target _vision_generate_messages_check_deps_pub_robomni
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 13%] Built target vision_generate_messages_cpp
+[ 27%] Built target vision_generate_messages_nodejs
+[ 44%] Built target vision_generate_messages_py
+[ 62%] Built target vision_generate_messages_eus
+[ 75%] Built target vision_generate_messages_lisp
+[35m[1mScanning dependencies of target publisher_node[0m
+[ 86%] Built target detection_node
+[ 93%] Built target subscribe_node
+[ 93%] Built target vision_generate_messages
+[ 96%] [32mBuilding CXX object CMakeFiles/publisher_node.dir/src/publish/image_publish.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ujang/VisionProject/devel/.private/vision/lib/vision/publisher_node[0m
+[100%] Built target publisher_node

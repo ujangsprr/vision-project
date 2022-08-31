@@ -1,0 +1,2 @@
+set(vision_MESSAGE_FILES "/home/vega/Documents/VisionProject/src/vision/msg/visionType/pub_front.msg;/home/vega/Documents/VisionProject/src/vision/msg/visionType/pub_ballomni.msg;/home/vega/Documents/VisionProject/src/vision/msg/visionType/pub_obsomni.msg")
+set(vision_SERVICE_FILES "")

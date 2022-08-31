@@ -1,0 +1,1 @@
+/home/vega/Documents/VisionProject/devel/.private/vision/share/gennodejs/ros/vision/msg/_index.js
